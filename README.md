@@ -11,3 +11,4 @@ In summary, Automated Forecast Insights is a powerful and easy-to-use system for
 ![image](https://user-images.githubusercontent.com/89465117/224296118-1b06cf48-66e3-40a4-9fe1-2bb921306088.png)
 ![image](https://user-images.githubusercontent.com/89465117/224296206-aec7ecf8-7939-433f-8324-68d564f1bbcb.png)
 ![image](https://user-images.githubusercontent.com/89465117/224296294-573a08d0-9718-4927-a60b-b0f44aa99dd2.png)
+![image](https://user-images.githubusercontent.com/89465117/224299883-c5c681c4-de5e-42bb-ac69-796210ce092b.png)
